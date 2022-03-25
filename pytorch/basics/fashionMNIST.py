@@ -64,7 +64,6 @@ class CNN(nn.Module):
 model = CNN().to(device)
 summary(model, (1, 28, 28))
 optimizer = torch.optim.Adam(model.parameters(), lr=1e-3)
-loss_fn = nn.CrossEntropyLoss()
 
 
 def train(dataloader, model, loss_fn, optimizer):
