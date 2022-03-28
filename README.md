@@ -14,3 +14,7 @@ This repo is a deep learning playground for Tensorflow 2.0 and PyTorch framework
 - Meta (Facebook) AI research Blog: https://ai.facebook.com/blog/?page=1
 - Microsoft Research Blog: https://blogs.microsoft.com/ai/
 - Andrej Karpathy Blog (Head of AutoVision Tesla): https://karpathy.github.io/
+
+# Books
+## NLP
+- Speech and Language Processing by Dan Jurafsky and James H. Martin: https://web.stanford.edu/~jurafsky/slp3/
